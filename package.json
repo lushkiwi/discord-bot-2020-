@@ -1,0 +1,34 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lushkiwi"
+  ],
+  "author": "'",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "discord-meme-generator": "^1.0.6",
+    "discord.js": "^12.2.0",
+    "http": "0.0.1-security",
+    "hypixel-api-reborn": "^1.2.2",
+    "image-size": "^0.8.3",
+    "jimp": "^0.10.3",
+    "mcinfo": "^1.0.4",
+    "minecraft-server-util": "^1.1.1",
+    "node-fetch": "^2.6.0",
+    "object-path": "^0.11.4",
+    "prismarine-nbt": "^1.2.1",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "string-format": "^2.0.0",
+    "url": "^0.11.0"
+  }
+}
